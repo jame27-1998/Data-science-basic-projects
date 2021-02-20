@@ -1,2 +1,2 @@
-# Data-science-basic-projects
+# Data-science-basic-project
 Data Science Basic project
